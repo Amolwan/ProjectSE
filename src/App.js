@@ -56,6 +56,10 @@ const App = () => {
           Sign out
         </Item>
         
+        <Item bgColor='black'>
+          <Icon><i className="fas fa-info"/></Icon>
+          Sign OUT2
+        </Item>
         
       </Sidebar>
     </div>
